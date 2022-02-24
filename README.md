@@ -63,3 +63,81 @@ n=7
 *     *
 ```
 
+4. ve_cai_thang.js:
+Vẽ 1 cái thang bằng '*' với chiều cao là height và chiều rộng là width và khoảng cách giữa các thanh ngang là size (chiều rộng lớn hơn 2, chiều cao và size đều lớn hơn 1). Biết bậc thang cao nhất luôn có thứ tự thứ 2 từ trên xuống và bậc thang cuối cùng phải nằm trong phạm vi thang
+
+```
+height = 7, width = 4, size = 3
+*  *
+****
+*  *
+*  *
+****
+*  *
+*  *
+
+height = 8, width = 4, size = 2
+*  *
+****
+*  *
+****
+*  *
+****
+*  *
+****
+```
+
+5. ve_chu_z.js
+Vẽ n chữ Z có độ rộng w với w > 2, n và w là số nguyên dương
+```
+n = 2, w = 4
+****
+  *
+ *
+****
+  *
+ *
+****
+```
+
+6.
+Vẽ n hình thoi có độ rộng w với w > 2, n và w là số nguyên dương (W lớn hơn 2 và là số lẻ)
+```
+n = 3, w = 5
+  *
+ * *
+*   *
+ * *
+  *
+ * *
+*   *
+ * *
+  *
+ * *
+*   *
+ * *
+  *
+```
+
+7.
+Vẽ n chữ v có chiều cao h với h > 1
+```
+n = 2, h = 4
+*     *     *
+ *   * *   *
+  * *   * *
+   *     *
+```
+
+8.
+Vẽ n viên kim cương có chiều cao h (với 2 số nguyên dương n và h, h >1 va là số lẻ)
+```
+n = 3, h = 7;
+   *     *     *
+  * *   * *   * *
+ *   * *   * *   *
+*     *     *     *
+ *   * *   * *   *
+  * *   * *   * *
+   *     *     *
+```
