@@ -130,7 +130,7 @@ n = 2, h = 4
 ```
 
 8.
-Vẽ n viên kim cương có chiều cao h (với 2 số nguyên dương n và h, h >1 va là số lẻ)
+Vẽ n hình thoi nằm ngang có chiều cao h (với 2 số nguyên dương n và h, h >1 va là số lẻ)
 ```
 n = 3, h = 7;
    *     *     *
