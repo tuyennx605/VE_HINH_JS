@@ -1,6 +1,7 @@
 # Một số bài tập vẽ hình
 
 1. tam_giac_so1.js :
+
 Vẽ hình với dạng sau:
 
 ```
@@ -28,6 +29,7 @@ n=10
 ```
 
 2. tam_giac_so2.js :
+
 Vẽ hình với dạng sau:
 
 ```
@@ -64,6 +66,7 @@ n=7
 ```
 
 4. ve_cai_thang.js:
+
 Vẽ 1 cái thang bằng '*' với chiều cao là height và chiều rộng là width và khoảng cách giữa các thanh ngang là size (chiều rộng lớn hơn 2, chiều cao và size đều lớn hơn 1). Biết bậc thang cao nhất luôn có thứ tự thứ 2 từ trên xuống và bậc thang cuối cùng phải nằm trong phạm vi thang
 
 ```
@@ -87,7 +90,8 @@ height = 8, width = 4, size = 2
 ****
 ```
 
-5. ve_chu_z.js
+5. ve_chu_z.js: 
+
 Vẽ n chữ Z có độ rộng w với w > 2, n và w là số nguyên dương
 ```
 n = 2, w = 4
@@ -100,7 +104,8 @@ n = 2, w = 4
 ****
 ```
 
-6.
+6. ve_hinh_thoi.js :
+
 Vẽ n hình thoi có độ rộng w với w > 2, n và w là số nguyên dương (W lớn hơn 2 và là số lẻ)
 ```
 n = 3, w = 5
@@ -119,7 +124,8 @@ n = 3, w = 5
   *
 ```
 
-7.
+7. ve_n_chu_v.js :
+
 Vẽ n chữ v có chiều cao h với h > 1
 ```
 n = 2, h = 4
