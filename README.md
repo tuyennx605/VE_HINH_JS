@@ -148,3 +148,45 @@ n = 3, h = 7;
   * *   * *   * *
    *     *     *
 ```
+
+9. 
+
+Vẽ n chữ Z có độ rộng w (n, w nguyên dương, w > 2)
+
+```
+n = 2, w = 4
+
+0123
+  4
+ 5
+6789
+  0
+ 1
+2345
+```
+
+10. vẽ con bướm có có chiều cao h dạng sau (h > 1 và là số lẻ)
+
+```
+h = 7
+
+*     *
+**   **
+*** ***
+*******
+*** ***
+**   **
+*     *
+```
+
+11. Vẽ tam giác pascal : https://vi.wikipedia.org/wiki/Tam_gi%C3%A1c_Pascal
+
+```
+n = 5;
+
+     1
+    1 1
+   1 2 1
+  1 3 3 1
+ 1 4 6 4 1
+```
